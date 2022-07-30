@@ -1,6 +1,6 @@
 # git-practice
-tac bootcamp
+TAC Bootcamp
 
 
 
-git practice
+Git practice
